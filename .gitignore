@@ -11,7 +11,7 @@ tokens.py
 build/
 develop-eggs/
 dist/
-data/
+json/
 downloads/
 eggs/
 .eggs/
