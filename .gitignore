@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+tokens.py
 # Distribution / packaging
 .Python
 build/
